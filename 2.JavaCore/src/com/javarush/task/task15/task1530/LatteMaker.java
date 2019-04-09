@@ -1,3 +1,4 @@
+/*
 package com.javarush.task.task15.task1530;
 
 public class LatteMaker extends DrinkMaker {
@@ -16,3 +17,4 @@ public class LatteMaker extends DrinkMaker {
         System.out.println("Заливаем молоком с пенкой");
     }
 }
+*/

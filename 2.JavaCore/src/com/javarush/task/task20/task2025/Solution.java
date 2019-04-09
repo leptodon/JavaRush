@@ -203,10 +203,11 @@ public class Solution {
 
     public static void main(String[] args) {
         long a = System.currentTimeMillis();
-        for (long x : getNumbers(Integer.MAX_VALUE)) {
+        for (long x : getNumbers(2147483647)) {
             System.out.println(x);
         }
         long b = System.currentTimeMillis();
+        System.out.println(Integer.MAX_VALUE);
         //System.out.println(fullCount);
         System.out.println("memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()) / (1024 * 1024) + " mb");
         System.out.println("Time fo find is = " + (b - a) + "ms");

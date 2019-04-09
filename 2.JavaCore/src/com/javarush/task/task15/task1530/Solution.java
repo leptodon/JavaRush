@@ -3,6 +3,7 @@ package com.javarush.task.task15.task1530;
 /* 
 Template pattern
 */
+/*
 
 public class Solution {
     public static void main(String[] args) {
@@ -19,3 +20,4 @@ public class Solution {
 >>>>>>> 19017de... some new
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.javarush.task.task15.task1530;
 
 public abstract class DrinkMaker {
@@ -23,3 +24,4 @@ public abstract class DrinkMaker {
 >>>>>>> 19017de... some new
     }
 }
+*/
